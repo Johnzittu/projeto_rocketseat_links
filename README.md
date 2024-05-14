@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto DevLinks serve para demonstrar meus conhecimentos adquiridos ao longo do tempo.
+O Projeto DevLinks serve para demonstrar meus conhecimentos adquiridos ao longo do tempo e os links das minhas redes sociais😄.
 
 ## 🔖 Layout
 
